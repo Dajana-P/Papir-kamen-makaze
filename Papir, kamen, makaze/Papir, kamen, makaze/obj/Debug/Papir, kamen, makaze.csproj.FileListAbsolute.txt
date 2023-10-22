@@ -1,0 +1,10 @@
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\bin\Debug\Papir, kamen, makaze.exe.config
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\bin\Debug\Papir, kamen, makaze.exe
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\bin\Debug\Papir, kamen, makaze.pdb
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\obj\Debug\Papir, kamen, makaze.csproj.AssemblyReference.cache
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\obj\Debug\Papir__kamen__makaze.Form1.resources
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\obj\Debug\Papir__kamen__makaze.Properties.Resources.resources
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\obj\Debug\Papir, kamen, makaze.csproj.GenerateResource.cache
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\obj\Debug\Papir, kamen, makaze.csproj.CoreCompileInputs.cache
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\obj\Debug\Papir, kamen, makaze.exe
+C:\Users\PD\source\repos\Papir, kamen, makaze\Papir, kamen, makaze\obj\Debug\Papir, kamen, makaze.pdb
